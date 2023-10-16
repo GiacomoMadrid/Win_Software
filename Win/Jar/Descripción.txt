@@ -1,0 +1,2 @@
+Aquí yacen archivos .jar
+Para poder correrlos, asegúrate de tener Java instalado en tu dispositivo.
