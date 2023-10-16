@@ -1,0 +1,17 @@
+¡Bienvenidos a Win_Software!
+
+Siéntanse libres de descargar y usar el software encontrado en este repositorio.
+Los programas encontrados en este repositorio (Win_Software) son de distribución gratuita y me opongo rotundamente a que terceros intenten lucrar con estos.
+
+Lista de programas:
+
+- Win Bool (.exe, .jar): Procesador de operaciones booleanas
+-
+-
+-
+-
+-
+-
+-
+-
+-
